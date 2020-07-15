@@ -1,4 +1,4 @@
-<img src="photo/opening.png" width="100%" >
+<img src="https://github.com/SayantanBanerjee16/SayantanBanerjee16/blob/master/photo/opening.png" width="100%" >
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
