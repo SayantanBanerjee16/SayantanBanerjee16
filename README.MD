@@ -2,13 +2,21 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Inspiration :blush:
+
+*"What we know is a Drop :droplet:, what we don't know is an Ocean :ocean:"*
+
 ## About :sunglasses:
 
 Integrated B Tech + M Tech 3rd year Information Technology student. My aim is to develop applications which would *put a smile* :smile: in someone's life.
 
-## Inspiration :blush:
+- Open-source enthusiast. Contributed to [Oppia Android](https://github.com/oppia/oppia-android) having multiple PRs merged.
+- Do read my resume here: [SayantanBanerjee_Resume.pdf](https://drive.google.com/file/d/1jvEaY2G8b2_FssS7lmi0UmnR4X0FJjtt/view?usp=sharing)
+- Did back to back 2 Start-up Interns in Android Development, in [Ria Webs Solution](https://drive.google.com/file/d/1mGBGrJmZJPvpPdJv1hv56WoZXcevGg8e/view?usp=sharing) and [Cvision.ai Analytics Private Ltd.](https://drive.google.com/file/d/1WVcHFJB0KSnpNErpHQPZZKRFyRM5rbUb/view?usp=sharing).
+- Love bingeing shows based on Science-fiction, Crime, Mystery Thriller. All time favourite is *Dark*.
+- I started blogging on [Medium](https://medium.com/@sayantanbanerjee_91303) about Science Fiction and Technical stuffs. Do give a visit.
 
-*"What we know is a Drop :droplet:, what we don't know is an Ocean :ocean:"*
+Take a look at my repositories and let's get in touch!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
