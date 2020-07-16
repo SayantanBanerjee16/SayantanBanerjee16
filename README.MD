@@ -10,13 +10,14 @@
 
 Integrated B Tech + M Tech 3rd year Information Technology student. My aim is to develop applications which would *put a smile* :smile: in someone's life.
 
-- Open-source enthusiast. Contributed to [Oppia Android](https://github.com/oppia/oppia-android) having multiple PRs merged.
-- Do read my resume here: [SayantanBanerjee_Resume.pdf](https://drive.google.com/file/d/1jvEaY2G8b2_FssS7lmi0UmnR4X0FJjtt/view?usp=sharing)
-- Did back to back 2 Start-up Interns in Android Development, in [Ria Webs Solution](https://drive.google.com/file/d/1mGBGrJmZJPvpPdJv1hv56WoZXcevGg8e/view?usp=sharing) and [Cvision.ai Analytics Private Ltd.](https://drive.google.com/file/d/1WVcHFJB0KSnpNErpHQPZZKRFyRM5rbUb/view?usp=sharing).
-- Love bingeing shows based on Science-fiction, Crime, Mystery Thriller. All time favourite is *Dark*.
-- I started blogging on [Medium](https://medium.com/@sayantanbanerjee_91303) about Science Fiction and Technical stuffs. Do give a visit.
+- :snowflake: Technical Head of both [Uthaan, journal club of IIITM](https://www.youtube.com/channel/UCcNvKCjKaxqnPX09IXcCKIg) and [Rotaract Club of Youth](https://www.instagram.com/rotaractiiitm/?hl=en).
+- :star2: Do read my resume here: [SayantanBanerjee_Resume.pdf](https://drive.google.com/file/d/1jvEaY2G8b2_FssS7lmi0UmnR4X0FJjtt/view?usp=sharing)
+- :fire: Open-source enthusiast. Contributed to [Oppia Android](https://github.com/oppia/oppia-android) having multiple PRs merged.
+- :bulb: Did back to back 2 Start-up Interns in Android Development, in [Ria Webs Solution](https://drive.google.com/file/d/1mGBGrJmZJPvpPdJv1hv56WoZXcevGg8e/view?usp=sharing) and [Cvision.ai Analytics Private Ltd.](https://drive.google.com/file/d/1WVcHFJB0KSnpNErpHQPZZKRFyRM5rbUb/view?usp=sharing).
+- :movie_camera: Love bingeing shows and movies based on Science-fiction, Crime, Mystery Thriller. All time favourites are *Dark, Inception & Interstellar*.
+- :book: I started blogging on [Medium](https://medium.com/@sayantanbanerjee_91303) about Science Fiction and Technical stuffs. Do give a visit.
 
-Take a look at my repositories and let's get in touch!
+:heart: Take a look at my repositories and let's get in touch!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
