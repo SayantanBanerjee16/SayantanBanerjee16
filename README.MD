@@ -17,6 +17,10 @@ Integrated B Tech + M Tech 3rd year Information Technology student. My aim is to
 - :movie_camera: Love bingeing shows and movies based on Science-fiction, Crime, Mystery Thriller. All time favourites are *Dark, Inception & Interstellar*.
 - :book: I started blogging on [Medium](https://medium.com/@sayantanbanerjee_91303) about Science Fiction and Technical stuffs. Do give a visit.
 
+- :books: **Language - **C, C++, Kotlin, Java, Dart, XML.
+- :wrench: **Android Tools - **Jetpack Components, Data Persistence Library, Retrofit, Firebase, Coroutines, SQLite, MLKit. 
+- :gem: **Softwares - **Adobe Photoshop, Adobe Premiere Pro. 
+
 :heart: Take a look at my repositories and let's get in touch!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
