@@ -16,10 +16,9 @@ Currently in 3rd year persuing Integrated B.Tech + M.Tech Information Technology
 - :bulb: Did back to back 2 Start-up Interns in Android Development, in [Ria Webs Solution](https://drive.google.com/file/d/1mGBGrJmZJPvpPdJv1hv56WoZXcevGg8e/view?usp=sharing) and [Cvision.ai Analytics Private Ltd.](https://drive.google.com/file/d/1WVcHFJB0KSnpNErpHQPZZKRFyRM5rbUb/view?usp=sharing).
 - :movie_camera: Love bingeing shows and movies based on Science-fiction, Crime, Mystery Thriller. All time favourites are *Dark and Inception*.
 - :black_nib: I have started blogging on [Medium](https://medium.com/@sayantanbanerjee_91303) about Science Fiction and Technical stuffs. Do give a visit.
-
-- :books: **Language - **C, C++, Kotlin, Java, Dart, XML.
-- :wrench: **Android Tools - **Jetpack Components, Data Persistence Library, Retrofit, Firebase, Coroutines, SQLite, MLKit. 
-- :gem: **Softwares - **Adobe Photoshop, Adobe Premiere Pro. 
+- :books: **Languages** - C, C++, Kotlin, Java, Dart, XML.
+- :wrench: **Android Tools** - Jetpack Components, Data Persistence Library, Retrofit, Firebase, Coroutines, SQLite, MLKit. 
+- :gem: **Softwares** - Adobe Photoshop, Adobe Premiere Pro. 
 
 :heart: Take a look at my repositories and let's get in touch!
 
