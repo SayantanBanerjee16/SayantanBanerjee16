@@ -18,7 +18,7 @@ Currently in 3rd year persuing Integrated B.Tech + M.Tech Information Technology
 - :black_nib: I have started blogging on [Medium](https://medium.com/@sayantanbanerjee_91303) about Science Fiction and Technical stuffs. Do give a visit.
 - :books: **Languages** - C, C++, Kotlin, Java, Dart, XML.
 - :wrench: **Android Tools** - Jetpack Components, Data Persistence Library, Retrofit, Firebase, Coroutines, SQLite, MLKit. 
-- :gem: **Softwares** - Adobe Photoshop, Adobe Premiere Pro. 
+- :gem: **Softwares** - Git, Android Studio, Adobe Photoshop, Adobe Premiere Pro. 
 
 :heart: Take a look at my repositories and let's get in touch!
 
