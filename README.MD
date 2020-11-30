@@ -14,7 +14,7 @@ Currently in 3rd year pursuing Integrated B.Tech + M.Tech Information Technology
 - :star2: Do read my resume here: [SayantanBanerjee_Resume.pdf](https://drive.google.com/file/d/1eRrKkRLA8r7q4TBDP36yOy_U4Q32iYZ6/view?usp=sharing).
 - :fire: Open-source enthusiast. Contributed to [Oppia Android](https://github.com/oppia/oppia-android) having multiple PRs merged.
 - :bulb: Did back to back 2 Start-up Interns in Android Development, in [Ria Webs Solution](https://drive.google.com/file/d/1mGBGrJmZJPvpPdJv1hv56WoZXcevGg8e/view?usp=sharing) and [Cvision.ai Analytics Private Ltd](https://drive.google.com/file/d/1WVcHFJB0KSnpNErpHQPZZKRFyRM5rbUb/view?usp=sharing).
-- :movie_camera: Love bingeing shows and movies based on Science-fiction, Crime, Mystery Thriller. All time favourites are *Dark and Inception*.
+- :movie_camera: Love bingeing shows and movies based on Science-fiction, Crime, Mystery Thriller. All time favourites are *Dark and Interstellar*.
 - :black_nib: I have started blogging on [Medium](https://medium.com/@sayantanbanerjee_91303) about Science Fiction and Technical stuffs. Do give a visit.
 - :books: **Languages** - C, C++, Kotlin, Java, Dart, XML.
 - :wrench: **Android Tools** - Jetpack Components, Data Persistence Library, Retrofit, Firebase, Coroutines, SQLite, MLKit. 
