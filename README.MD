@@ -11,7 +11,7 @@
 Currently in 3rd year pursuing Integrated B.Tech + M.Tech Information Technology in [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/). My aim is to develop applications which would *put a smile* in someone's life.
 
 - :snowflake: Technical Head of both [Uthaan, Journal club of IIITM](https://www.youtube.com/channel/UCcNvKCjKaxqnPX09IXcCKIg) and [Rotaract Club of Youth, IIITM](https://www.instagram.com/rotaractiiitm/?hl=en).
-- :star2: Do read my resume here: [SayantanBanerjee_Resume.pdf](https://drive.google.com/file/d/1eRrKkRLA8r7q4TBDP36yOy_U4Q32iYZ6/view?usp=sharing).
+- :star2: Do read my resume here: [SayantanBanerjee_Resume.pdf](https://drive.google.com/file/d/1bBs1BWaGy4LRsTD0Hn1S8i3_WBwBfcU_/view?usp=sharing).
 - :fire: Open-source enthusiast. Contributed to [Oppia Android](https://github.com/oppia/oppia-android) having multiple PRs merged.
 - :bulb: Did back to back 2 Start-up Interns in Android Development, in [Ria Webs Solution](https://drive.google.com/file/d/1mGBGrJmZJPvpPdJv1hv56WoZXcevGg8e/view?usp=sharing) and [Cvision.ai Analytics Private Ltd](https://drive.google.com/file/d/1WVcHFJB0KSnpNErpHQPZZKRFyRM5rbUb/view?usp=sharing).
 - :movie_camera: Love bingeing shows and movies based on Science-fiction, Crime, Mystery Thriller. All time favourites are *Dark and Interstellar*.
