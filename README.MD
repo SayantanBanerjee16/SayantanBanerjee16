@@ -24,6 +24,29 @@ Currently in 3rd year pursuing Integrated B.Tech + M.Tech Information Technology
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Github Stats
+<details>
+<summary>📊 Github Stats</summary>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sayantanbanerjee16&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" />
+ 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayantanbanerjee16&layout=compact&theme=vision-friendly-dark" width="350" height="250" >
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantanbanerjee16&theme=vision-friendly-dark)](https://github.com/sayantanbanerjee16)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=sayantanbanerjee16&margin-w=15&theme=vision-friendly-dark&column=3)](https://github.com/sayantanbanerjee16)
+
+</div>
+</details>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ##  Follow Me :speech_balloon:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sayantan%20Banerjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayantan-banerjee-iiitgwalior/)](https://www.linkedin.com/in/sayantan-banerjee-iiitgwalior/)    [![Medium Badge](https://img.shields.io/badge/-@SayantanBanerjee-e4405f?style=flat-square&labelColor=f94877&logo=medium&logoColor=white&link=https://medium.com/@sayantanbanerjee_91303)](https://medium.com/@sayantanbanerjee_91303)    [![Gmail Badge](https://img.shields.io/badge/-sayantaninfinity16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sayantaninfinity16@gmail.com)](mailto:sayantaninfinity16@gmail.com)    [![Instagram Badge](https://img.shields.io/badge/-@__tonystark_3000__-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/_.tonystark_3000._/)](https://www.instagram.com/_.tonystark_3000._/)
